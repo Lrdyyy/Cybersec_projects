@@ -1,4 +1,4 @@
-# TryHackMe SOC Simulator: Malware, C2 Traffic, and Domain Blocking
+# TryHackMe Threat Simulation
 
 A hands-on write-up of the **Simulated Attack Threats and Detection Engineering** scenario in TryHackMe's SOC Simulator. I played a SOC analyst defending a simulated network against an attacker who adapted after every block.
 
