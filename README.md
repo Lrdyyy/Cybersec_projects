@@ -1,2 +1,2 @@
-# Cybersec_projects
+# CYBER SECURITY PROJECTS
 Cyber Security Projects
