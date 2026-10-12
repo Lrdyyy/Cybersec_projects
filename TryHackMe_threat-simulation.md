@@ -1,6 +1,6 @@
-# TryHackMe Threat Simulation
+# TryHackMe_Threat simulatins
 
-A hands-on write-up of the **Simulated Attack Threats and Detection Engineering** scenario in TryHackMe's SOC Simulator. I played a SOC analyst defending a simulated network against an attacker who adapted after every block.
+A hands-on write-up of the **Simulated Attack Threats and Detection Engineering** scenario in TryHackMe's Threat simulation. I played a SOC analyst defending a simulated network against an attacker who adapted after every mitigation of its attack.
 
 ## Overview
 
