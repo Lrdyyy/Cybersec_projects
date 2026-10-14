@@ -1,4 +1,4 @@
-# Cybersecurity Projects
+# Cybersecurity Generalist
 
 Hi, I'm Harold. I'm building a career in cybersecurity with a focus on **SOC analysis and security monitoring**. This repo collects the hands-on projects I complete as I train, each with a write-up of my analysis, my decisions, and what I learned.
 
